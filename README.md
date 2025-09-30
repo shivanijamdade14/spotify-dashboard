@@ -29,10 +29,6 @@ Welcome to the Spotify Dashboard — a Power BI project that visualizes streamin
 3. Connect to your data source or use the sample data provided.
 4. Explore the visuals and apply filters to customize your view.
 
-## 📷 Screenshots
-
-_Add screenshots here to showcase key visuals from your dashboard._
-
 ## 📄 License
 
 This project is open-source and available under the [MIT License](LICENSE).
